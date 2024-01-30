@@ -236,4 +236,4 @@
 20451-20521 avr_updi: stop-bit: "Stop bit" "Stop" "T"
 20136-20521 avr_updi: byte-value: "33"
 13871-20521 avr_updi: updi-data: "SIB: 4156522020202020503A32443A312D33" "4156522020202020503A32443A312D33"
-8674-20521 avr_updi: updi: "READSIB"
+8674-20521 avr_updi: updi: "READSIB family="AVR" nvmver=P:2 ocdver=D:1 dbgosc=3" "READSIB"
